@@ -76,7 +76,7 @@ Full Stack Developer building real-world applications with the MERN stack, Pytho
 
 <p align="center">
   <a href="https://github.com/Rihan21Hash">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Rihan21Hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" alt="GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Rihan21Hash&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Rihan21Hash">
     <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rihan21Hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=CBD5E1&langs_count=8" alt="Top Languages" />
@@ -85,14 +85,18 @@ Full Stack Developer building real-world applications with the MERN stack, Pytho
 
 <p align="center">
   <a href="https://github.com/Rihan21Hash">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rihan21Hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=rihan21hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
+### `> contributions`
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rihan21Hash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=7C3AED&area=true&area_color=7C3AED" alt="Contribution Graph" width="100%" />
+  <a href="https://github.com/Rihan21Hash">
+    <img src="https://ghchart.rshah.org/7C3AED/rihan21hash" alt="Rihan's Contribution Graph" width="100%" />
+  </a>
 </p>
 
 ---
