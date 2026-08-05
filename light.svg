@@ -414,7 +414,7 @@ MMMM@@@@@@@@@MM#S%???%%????????????????S0&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp
   <!-- ─── GREETING ─── -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
-    <text x="492" y="92" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="14" fill="#64748B" font-weight="400">Hi there!</text>
+    <text x="492" y="92" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="14" fill="#64748B" font-weight="400">Hello, World!</text>
   </g>
 
   <!-- ─── NAME ─── -->
@@ -435,14 +435,14 @@ MMMM@@@@@@@@@MM#S%???%%????????????????S0&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp
       <text x="510" y="162" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="15" fill="url(#roleGrad)" font-weight="600">Full Stack Developer</text>
     </g>
 
-    <!-- Role 2: Open Source Contributor -->
+    <!-- Role 2: Software Engineer -->
     <g clip-path="url(#roleClip2)">
-      <text x="510" y="162" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="15" fill="url(#roleGrad)" font-weight="600">Open Source Contributor</text>
+      <text x="510" y="162" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="15" fill="url(#roleGrad)" font-weight="600">Software Engineer</text>
     </g>
 
-    <!-- Role 3: AI Enthusiast -->
+    <!-- Role 3: AI / ML Engineer -->
     <g clip-path="url(#roleClip3)">
-      <text x="510" y="162" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="15" fill="url(#roleGrad)" font-weight="600">AI Enthusiast</text>
+      <text x="510" y="162" font-family="'Segoe UI','Inter',system-ui,sans-serif" font-size="15" fill="url(#roleGrad)" font-weight="600">AI / ML Engineer</text>
     </g>
 
     <!-- Typing cursor -->
@@ -489,7 +489,7 @@ MMMM@@@@@@@@@MM#S%???%%????????????????S0&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp
         <tspan fill="url(#accentGrad)" font-size="11">▸ </tspan>
         <tspan fill="#94A3B8" font-weight="500">Focus</tspan>
         <tspan fill="#CBD5E1"> · </tspan>
-        <tspan fill="#334155">Data Structures &amp; Algorithms</tspan>
+        <tspan fill="#334155">Full Stack Development &amp; AI</tspan>
       </text>
     </g>
 
@@ -500,7 +500,7 @@ MMMM@@@@@@@@@MM#S%???%%????????????????S0&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp
         <tspan fill="url(#accentGrad)" font-size="11">▸ </tspan>
         <tspan fill="#94A3B8" font-weight="500">Portfolio</tspan>
         <tspan fill="#CBD5E1"> · </tspan>
-        <tspan fill="#94A3B8" font-style="italic">Coming Soon</tspan>
+        <tspan fill="#2563EB">portfolio-frontend-eight-blond.vercel.app</tspan>
       </text>
     </g>
 
@@ -647,10 +647,12 @@ MMMM@@@@@@@@@MM#S%???%%????????????????S0&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp
     <!-- Portfolio -->
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.4s" fill="freeze"/>
-      <rect x="612" y="500" width="32" height="32" rx="8" fill="rgba(37,99,235,0.06)" stroke="rgba(37,99,235,0.12)" stroke-width="0.5"/>
-      <g transform="translate(620, 508) scale(0.667)">
-        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" fill="#64748B"/>
-      </g>
+      <a href="https://portfolio-frontend-eight-blond.vercel.app/" target="_blank">
+        <rect x="612" y="500" width="32" height="32" rx="8" fill="rgba(37,99,235,0.06)" stroke="rgba(37,99,235,0.12)" stroke-width="0.5"/>
+        <g transform="translate(620, 508) scale(0.667)">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" fill="#64748B"/>
+        </g>
+      </a>
     </g>
 
     <!-- Social labels beneath icons -->
