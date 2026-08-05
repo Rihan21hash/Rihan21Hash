@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rihan21hash&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rihan21Hash&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -75,24 +75,24 @@ Full Stack Developer building real-world applications with the MERN stack, Pytho
 ### `> stats --verbose`
 
 <p align="center">
-  <a href="https://github.com/Rihan21hash">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rihan21hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" alt="GitHub Stats" />
+  <a href="https://github.com/Rihan21Hash">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Rihan21Hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Rihan21hash">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihan21hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=CBD5E1&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Rihan21Hash">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rihan21Hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=CBD5E1&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rihan21hash">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rihan21hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" alt="GitHub Streak" />
+  <a href="https://github.com/Rihan21Hash">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rihan21Hash&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rihan21hash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=7C3AED&area=true&area_color=7C3AED" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rihan21Hash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=7C3AED&area=true&area_color=7C3AED" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
